@@ -1,6 +1,6 @@
 # ACADEMLO ECOMMERCE FRONT
 
-Este es el repositorio con el Fronten del Ecommerce configurado con las siguientes tecnologías
+Este es el repositorio con el Frontend del Ecommerce configurado con las siguientes tecnologías
 
 - TypeScript
 - Tailwind **(Para el CSS)**
